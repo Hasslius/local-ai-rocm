@@ -158,6 +158,8 @@ Your AI stack is now running. All that's left is to connect the GUI to the backe
 5.  In the **Chat Model** dropdown, you will now see `codellama:13b` available to select.
 6.  Save your settings. You can now create a workspace and start chatting with your private, GPU-accelerated AI!
 
+<img width="2554" height="1400" alt="Screenshot From 2025-11-03 12-50-18" src="https://github.com/user-attachments/assets/01bb2e71-edaa-4b0d-a48c-951cb29c4242" />
+
 
 ## 5. Troubleshooting & Key Learnings
 
