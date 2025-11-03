@@ -150,7 +150,7 @@ With the `docker-compose.yml` file saved, launching the entire AI stack is a sin
 Your AI stack is now running. All that's left is to connect the GUI to the backend.
 
 1.  Open your web browser and navigate to **`http://localhost:3002`**.
-    > **Note:** We use port `3002` in this guide because `3001` is a common port for other development services (including Metasploit, which we found in testing). If you need to use a different port, you can easily change it by editing the `ports:` line in the `docker-compose.yml` file.
+    > **Note:** I use port `3002` in this guide because `3001` is a common port for other development services (including Metasploit, which we found in testing). If you need to use a different port, you can easily change it by editing the `ports:` line in the `docker-compose.yml` file.
 2.  Follow the AnythingLLM setup wizard.
 3.  When you reach **LLM Preference**, select **Ollama**.
 4.  In the **Ollama Base URL** field, enter: **`http://ollama-gpu:11434`**
